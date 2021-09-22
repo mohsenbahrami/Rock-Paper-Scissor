@@ -11,6 +11,22 @@ package com.mycompany.rockpaperscissor;
 public class Game {
 
     public static void main(String[] args) {
+        
+        boolean continu = false;
+        System.out.println("true");
+        System.out.println("true");
+        System.out.println("true");
+        System.out.println("true");
+        System.out.println("true");
+        
+        while (continu){
+            System.out.println("true");
+            int i = 0;
+            i++;
+            if(i==5){
+                continu = true;
+            }
+        }
        
        
     }
