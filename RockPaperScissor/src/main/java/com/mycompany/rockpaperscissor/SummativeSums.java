@@ -23,7 +23,7 @@ public class SummativeSums {
 
     public static void main(String[] args) {
         
-        double[] myNum = {10, 20, 30, 100000};
+        double[] myNum = {10, 20, 30, 10};
         System.out.println(ArraySum(myNum));
 
     }
